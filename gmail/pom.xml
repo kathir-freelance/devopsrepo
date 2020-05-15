@@ -1,0 +1,16 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+<parent>
+<groupId>com.google</groupId>
+<artifactId>google</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+</parent>
+
+  <groupId>com.google</groupId>
+  <artifactId>gmail</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+  <name>gmail</name>
+  <url>http://maven.apache.org</url>
+
+</project>
